@@ -18,13 +18,9 @@ Este repositorio contiene una implementación en Java para calcular el factorial
     ```bash
     git clone https://github.com/tu-usuario/Factorial.git
     ```
-2. Compila el proyecto:
+2. Ejecuta el programa:
     ```bash
-    javac Factorial.java
-    ```
-3. Ejecuta el programa:
-    ```bash
-    java Factorial
+    java -cp build\classes com.uide.programacion.Factorial
     ```
 ## Autor
 
